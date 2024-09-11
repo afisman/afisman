@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![afisman's GitHub stats](https://github-readme-stats.vercel.app/api?username=afisman)](https://github.com/afisman/github-readme-stats)
+
 <!--
 **afisman/afisman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
